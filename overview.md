@@ -1,4 +1,6 @@
 # The Proposal Process & Governance Mechanism
+$mouth
+Putting your money where your mouth is. A simple method to incentivize and increase the value of a vote.
 
 ## The Proposal Process: Two Periods
 
